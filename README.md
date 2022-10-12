@@ -6,7 +6,6 @@ Allowed id = "admin" and password = "admin".
 
 Google login in is fully implemented in this version.
 
-Facebook login is not implemented in this version, it will be implemened in next version
 
 
 Android View:

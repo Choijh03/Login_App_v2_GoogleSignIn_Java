@@ -36,3 +36,8 @@ After signing out, re-clicking google sign in button:
 
 ![6](https://user-images.githubusercontent.com/98497929/195214570-27ef52eb-dfb3-4801-a969-dc45052c2742.PNG)
 
+When using admin sign in:
+
+![캡처](https://user-images.githubusercontent.com/98497929/195257264-0a01815f-8a54-4205-b381-d21b243bc07f.PNG)
+
+
